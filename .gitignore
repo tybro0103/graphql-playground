@@ -1,0 +1,7 @@
+node_modules
+
+public/css/app.css
+public/js/app.js
+
+npm-debug.log
+browserify-cache.json
