@@ -14,6 +14,8 @@ Express server with GraphQL and GraphiQL setup and ready to go. Other things ins
 ## Install and Run
 
 ```bash
+git clone git@github.com:tybro0103/graphql-playground.git
+cd graphql-playground/
 npm install -g nodemon
 npm install
 npm start
